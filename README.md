@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Geovanna from São Paulo - SP<br><br>- 🔭 I’m working as Data Engineering Intern at Petlove<br>- 📚 I'm studying Software Engineer at Fiap</p>
+<p align="left">I'm Geovanna from São Paulo - SP<br><br>- 🔭 I’m working as Data Engineering Intern at <b>Petlove</b>><br>- 📚 I'm studying Software Engineer at <b>Fiap</b></p>
 
 ###
 
